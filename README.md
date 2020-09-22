@@ -75,3 +75,4 @@ Contains all the code samples, implementations, and exercises from the Zero to M
   - How To Solve Coding Problems
     - [Google Interview Question.py](https://github.com/VicodinAbuser/ZTM-DS-and-Algo-Python/blob/master/venv/Scripts/How%20to%20solve%20coding%20problems/Google%20Interview%20Question.py)
     - [Interview Question 1.py](https://github.com/VicodinAbuser/ZTM-DS-and-Algo-Python/blob/master/venv/Scripts/How%20to%20solve%20coding%20problems/Interview%20Question%201.py)
+[![Run on Repl.it](https://repl.it/badge/github/avinashpoonacha/ZTM-DS-and-Algo-Python)](https://repl.it/github/avinashpoonacha/ZTM-DS-and-Algo-Python)
